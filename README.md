@@ -1,6 +1,6 @@
 # openstreetmap_leaflet_supabase_nextjs
 
-# 🚀 🚀
+# 🚀 OpenStreetMap Leaflet Nextjs Supabase 🚀
 
 https://github.com/coding-to-music/openstreetmap_leaflet_supabase_nextjs
 
